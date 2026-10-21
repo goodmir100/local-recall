@@ -1,0 +1,38 @@
+# Local storage and databases
+%APPDATA%/
+LocalRecall/
+screenshots/
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+recall.db
+backend/test_screen.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+*.env
+.env
+.env.*
+!.env.example
+.pytest_cache/
+
+# Frontend / Node
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+npm-debug.log*
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,15 @@
+# Python 3.12+ on Windows. Runtime inference uses local OCR and embedding models.
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+mss==10.0.0
+Pillow==11.1.0
+pystray==0.19.5
+ImageHash==4.3.2
+rapidocr-onnxruntime==1.4.4
+sentence-transformers==3.4.1
+numpy<2.0
+pygetwindow==0.0.9
+psutil==7.0.0
+pywin32==308
+pydantic-settings==2.8.1
+httpx>=0.27,<1
