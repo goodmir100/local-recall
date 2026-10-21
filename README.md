@@ -8,6 +8,12 @@
 
 Local Recall turns your screen history into a searchable, private timeline. Screenshots, OCR, search, and the optional AI assistant run on your own Windows PC. The app has no cloud account, sync service, or telemetry endpoint. It masks detected sensitive text before a screenshot is written to disk.
 
+## See it in action
+
+[![Local Recall timeline and search interface](assets/demo-poster.jpg)](assets/local-recall-demo.mp4)
+
+[▶ Watch the 62-second demo](assets/local-recall-demo.mp4) · H.264 MP4, 5.5 MB
+
 > **Offline after setup:** Installing Python and npm packages and downloading AI models requires an internet connection once. Normal capture, search, and chat use local services and files.
 
 ## Features
